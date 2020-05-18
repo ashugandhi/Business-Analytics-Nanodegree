@@ -4,5 +4,5 @@
 
 #### Introduction
 
-![Image description](link-to-image)
+![](kaggle-nyse-page.png)
 

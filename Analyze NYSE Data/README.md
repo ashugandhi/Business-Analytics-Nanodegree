@@ -15,6 +15,7 @@ We have provided a clean data set for this project. Although in real life scenar
 #### What skills will I use?
 
 The main goal of this project is for you to demonstrate your ability to:
+
      - interpret the measures of central tendency and spread (mean, median, standard deviation, range).
 
  

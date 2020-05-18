@@ -22,7 +22,7 @@ You will have an opportunity to experience the end-to-end process of creating ef
 - Communicate a story or finding to the appropriate audience using interactive visualizations
 - Undergo the iterative process of creating a visualization, and build interactive visualizations with Tableau
 
-![](tableau-dashboard-screenshot.png)
+![](Tableau-dashboard-Screenshot.png)
 
 
 ### Why is this Important to my Career?

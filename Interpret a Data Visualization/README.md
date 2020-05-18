@@ -9,3 +9,5 @@ A large part of working with data is being able to interpret data visualizations
 For example one insight might look like:
 
 ![](insight-image.png)
+
+“Deaths per year due to malaria in Senegal have been halved since 2007. From that dashboard, I clicked on Senegal on the map, this showed deaths due to malaria for each year from 2000 to 2014. Before 2007, there were about 1400-1500 deaths per year. After 2007, starting in 2008, deaths were reduced to about 600-700 per year.”

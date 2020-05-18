@@ -1,0 +1,67 @@
+/* Query 1 - Query used for the first insight.*/
+
+Customers from which country have spent the most? Name the top 5 countries.
+
+SELECT Customer.Country Country, SUM(invoice.total) total_money_spent
+FROM Customer
+JOIN Invoice
+ON Invoice.CustomerId=customer.CustomerId
+GROUP BY Country
+ORDER BY total_money_spent DESC
+LIMIT 5;
+
+
+
+/* Query 2 - Query used for the Second insight.*/
+
+Which Top 5 artists have spent the most?
+
+SELECT
+  Artist.ArtistId,
+  Artist.Name,
+  sum(track.UnitPrice) money_spent
+FROM Artist
+JOIN Album
+  ON Artist.ArtistId = Album.ArtistId
+JOIN Track
+  ON Album.AlbumId = Track.AlbumId
+GROUP BY Artist.ArtistId
+ORDER BY money_spent DESC
+LIMIT 5;
+
+
+
+/* Query 3 - Query used for the Third insight.*/
+
+What are the top 5 highest selling genres?
+
+SELECT Genre.GenreId id, Genre.Name name, sum(InvoiceLine.Quantity) quantity
+FROM Genre
+JOIN Track
+ON Track.GenreId=Genre.GenreId
+JOIN InvoiceLine
+ON InvoiceLine.TrackId=Track.TrackId
+GROUP BY Genre.Name
+ORDER BY quantity DESC;
+
+
+
+/* Query 4 - Query used for the fourth insight.*/
+
+Names of the Top 5 USA customers who have spent the most.
+
+SELECT customer.CustomerId, Customer.FirstName,  sum(Invoice.total) total_spent
+FROM Invoice
+JOIN Customer
+ON Customer.CustomerId=Invoice.CustomerId
+WHERE customer.Country='USA' 
+GROUP BY Customer.CustomerId
+ORDER BY total_spent DESC
+LIMIT 5
+
+
+
+
+
+
+

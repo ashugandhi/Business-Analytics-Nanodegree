@@ -27,7 +27,7 @@ You will have an opportunity to experience the end-to-end process of creating ef
 
 ### Why is this Important to my Career?
 
-Data analyst are storytellers that can translate data findings that other people can easily understand. They view data visualization as an important form of communication.
+Data analysts are storytellers that can translate data findings that other people can easily understand. They view data visualization as an important form of communication.
 
 If you, as a data analyst, can create visualizations to explore data, articulate clear findings to drive business decisions, or use data to elicit consensus from diverse perspectives, then you will be a deeply invaluable member on your team.
 

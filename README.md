@@ -12,23 +12,23 @@ Created in collaboration with industry experts:
 ## Program Curriculam:
 + **WELCOME TO THE PROGRAM**
 Meet your instructors and learn how to optimize your classroom. Learn how people use data to answer questions, and find your own insights from a data dashboard.
-**Project 1:** [`Interpret Data Visualization`](https://github.com/vamshi-krishna-prime/Business_Analytics/tree/master/Interpret%20a%20Data%20Visualization) 
+**Project 1:** [`Interpret Data Visualization`](https://github.com/ashugandhi/Business-Analytics-Nanodegree/tree/master/Interpret%20a%20Data%20Visualization) 
 
   > In this project, you’ll explore an interactive data dashboard to uncover insights. You’ll write a short report explaining each insight, and how you found the information to reach your conclusion from the dashboard.
 
 + **INTRODUCTION TO DATA**
 Learn how to use statistics and visuals to find and communicate insights. Develop Excel skills to manipulate, analyze, and visualize data in a spreadsheet. Build Excel models to analyze possible business outcomes.
-**Project 2:** `Analyze NYSE Data`
+**Project 2:** [`Analyze NYSE Data`](https://github.com/ashugandhi/Business-Analytics-Nanodegree/tree/master/Analyze%20NYSE%20Data)
   > In this project, you'll use statistics and spreadsheet programs like Excel to analyze data from over 500 companies on the New York Stock Exchange. You'll also forecast financial metrics based on three possible scenarios for a company of your choice from the NYSE dataset.
 
 + **SQL for DATA ANALYSIS**
 Learn to use Structured Query Language (SQL) to extract and analyze data stored in databases.
-**Project 3:** `Query a Digital Music Store Database`
+**Project 3:** `Query a Digital Music Store Database`(https://github.com/ashugandhi/Business-Analytics-Nanodegree/tree/master/2.%20Intro%20to%20SQL)
   > In this project, you will query a digital music store database which holds information regarding the store’s media, employees, and customers. You will use the database to help the store gain an understanding of the types of music that are purchased, where customers live, and how the company might optimize their business practices.
 
 + **DATA VISUALIZATION**
 Learn to apply design and visualization principles to create impactful data visualizations, build data dashboards, and tell stories with data.
-**Project 4:** `Build Data Dashboards`
+**Project 4:** `Build Data Dashboards`(https://github.com/ashugandhi/Business-Analytics-Nanodegree/tree/master/5.%20Data%20Visualization%20Using%20Tableau)
   > In this project, you’ll build interactive dashboards with Tableau and use them to discover and communicate insights from data. You’ll use a dataset of flight delays in the US to visualize the quality of airlines and airports, find the best times to fly, and more.
 
 ## Instructors:
